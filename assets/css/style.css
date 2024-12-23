@@ -122,12 +122,16 @@
 /* main body */
 
 /* body-color */
-
+/*previously used
 body {
   color: #333;
   font-size: 18px;
 }
-
+*/
+body {
+  background-color: #333333; /* Dark grey color */
+  font-size: 18px;
+}
 
 
 /* body {
@@ -177,7 +181,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: #000000;
+  background: #333333;
   box-shadow: none;
   height: 0;
 }
@@ -357,7 +361,7 @@ h3 {
 }
 
 .overlay {
-  background-color: black;
+  background-color:  #333333;
   height: 100%;
   left: 0;
   position: absolute;
@@ -415,7 +419,7 @@ h3 {
 }
 
 #experience .card-action {
-  background-color: black;
+  background-color: #333333;
   border: none;
 }
 
@@ -560,7 +564,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #000000 !important;
+  background-color: #333333 !important;
 }
 
 /* .teal {
