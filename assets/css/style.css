@@ -320,9 +320,13 @@ h3 {
 } */
 
 #intro.section {
-  background: #d3d3d3  repeat;
+  background-image: url('assets/img/Backgroundimage.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   position: relative;
 }
+
 
 #intro.section .container {
   color: #D3D3D3;
