@@ -124,11 +124,10 @@
 /* body-color */
 
 body {
-  background: url('assets/img/Backgroundimage.jpeg') no-repeat center center fixed;
-  background-size: cover;
   color: #333;
   font-size: 18px;
 }
+
 
 
 /* body {
