@@ -117,7 +117,7 @@
 
 .contactme:hover{
   color: #02a9fd;
-  background-color: white;
+  background-color: #D3D3D3;
 }
 /* main body */
 
@@ -325,7 +325,7 @@ h3 {
 }
 
 #intro.section .container {
-  color: white;
+  color: #D3D3D3;
   font-weight: 200;
   left: 0;
   position: absolute;
