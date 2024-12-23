@@ -129,10 +129,9 @@ body {
 }
 */
 body {
-  background-color: #333333; /* Dark grey color */
-  font-size: 18px;
+  background: url('assets/img/Backgroundimage') no-repeat center center fixed; 
+  background-size: cover;
 }
-
 
 /* body {
   color: black;
@@ -181,7 +180,7 @@ blockquote * {
 /* main nav */
 
 nav {
-  background: #333333;
+  background: transparent;
   box-shadow: none;
   height: 0;
 }
@@ -361,7 +360,7 @@ h3 {
 }
 
 .overlay {
-  background-color:  #333333;
+  background-color:  rgba(0, 0, 0, 0.5);
   height: 100%;
   left: 0;
   position: absolute;
