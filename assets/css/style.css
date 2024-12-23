@@ -84,9 +84,9 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
+  background: #d3d3d3;
   color: #03a8f5;
-  border: 2px solid #fff;
+  border: 2px solid #d3d3d3;
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #02a9fd;
+  color: #D3D3D3;
   background-color: #D3D3D3;
 }
 /* main body */
@@ -257,7 +257,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
+  background-color: #d3d3d3;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;
@@ -270,7 +270,7 @@ ul.side-nav.fixed li.logo a {
 }
 
 ul.table-of-contents li:not(.logo) a.active, ul.table-of-contents li:not(.logo) a:hover {
-  background-color: #fafafa;
+  background-color: #d3d3d3;
   border-left: 3px solid;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #000000 repeat;
+  background: #d3d3d3  repeat;
   position: relative;
 }
 
@@ -414,7 +414,7 @@ h3 {
 }
 
 #experience .card-action {
-  background-color: rgba(0, 0, 0, 0.02);
+  background-color: #d3d3d3;
   border: none;
 }
 
@@ -597,7 +597,7 @@ small {
     width: 100%;
   }
   nav {
-    background: #fff;
+    background: #d3d3d3;
     height: 64px;
     position: absolute;
   }
