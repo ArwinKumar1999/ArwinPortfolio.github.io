@@ -319,13 +319,7 @@ h3 {
   position: relative;
 } */
 
-#intro.section {
-  background-image: url('assets/img/Backgroundimage.jpeg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: relative;
-}
+background: black;
 
 
 
